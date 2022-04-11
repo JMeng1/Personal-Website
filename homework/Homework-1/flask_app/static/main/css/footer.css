@@ -1,0 +1,15 @@
+#footer {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  background: #fafafa;
+  border-top: 0;
+  color: #c0c0c0;
+  overflow: hidden;
+  padding: 4em 0 4em 0;
+  font: Arial;
+  }
+#footer p{
+  align-items: center;
+  font-size: 24px;
+}

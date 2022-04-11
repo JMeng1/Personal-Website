@@ -1,0 +1,8 @@
+.header {
+}
+.header img{
+  display: block; /* remove extra space below image */
+  object-fit: cover;
+  width: 100vw;
+
+}
